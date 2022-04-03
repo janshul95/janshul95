@@ -1,4 +1,4 @@
-### Hi there, I'm Anshul Jain <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+> ### Hi there, I'm Anshul Jain <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 - I am a Software Consultant
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Machine Learning
@@ -6,7 +6,7 @@
 - 📫 anshul.iitdhn@gmail.com
 
 
-> ## Languages and Tools
+> ### Languages and Tools
 
 <img align="left" alt="Python" height="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="Typescript" height="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
